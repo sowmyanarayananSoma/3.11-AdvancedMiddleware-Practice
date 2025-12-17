@@ -1,0 +1,122 @@
+[
+  {
+    "studentName": "Mohammed Ali",
+    "courseName": "Intro to Web Dev",
+    "enrolledAt": "2025-10-12T21:15:09.644987",
+    "status": "enrolled"
+  },
+  {
+    "studentName": "Sofia Martinez",
+    "courseName": "Backend Development",
+    "enrolledAt": "2025-09-04T21:15:09.645004",
+    "status": "dropped"
+  },
+  {
+    "studentName": "Sofia Martinez",
+    "courseName": "Backend Development",
+    "enrolledAt": "2025-08-19T21:15:09.645010",
+    "status": "dropped"
+  },
+  {
+    "studentName": "Mohammed Ali",
+    "courseName": "Backend Development",
+    "enrolledAt": "2025-09-25T21:15:09.645014",
+    "status": "completed"
+  },
+  {
+    "studentName": "Mohammed Ali",
+    "courseName": "Backend Development",
+    "enrolledAt": "2025-10-07T21:15:09.645017",
+    "status": "dropped"
+  },
+  {
+    "studentName": "Maria Gonzales",
+    "courseName": "Intro to Web Dev",
+    "enrolledAt": "2025-10-26T21:15:09.645021",
+    "status": "enrolled"
+  },
+  {
+    "studentName": "Daniel Kim",
+    "courseName": "Backend Development",
+    "enrolledAt": "2025-10-21T21:15:09.645024",
+    "status": "dropped"
+  },
+  {
+    "studentName": "Ananya Rao",
+    "courseName": "Data Fundamentals",
+    "enrolledAt": "2025-10-04T21:15:09.645029",
+    "status": "enrolled"
+  },
+  {
+    "studentName": "Ethan Wong",
+    "courseName": "Intro to Web Dev",
+    "enrolledAt": "2025-11-21T21:15:09.645036",
+    "status": "completed"
+  },
+  {
+    "studentName": "Daniel Kim",
+    "courseName": "AI Basics",
+    "enrolledAt": "2025-12-04T21:15:09.645040",
+    "status": "enrolled"
+  },
+  {
+    "studentName": "Lucas Brown",
+    "courseName": "AI Basics",
+    "enrolledAt": "2025-11-21T21:15:09.645043",
+    "status": "dropped"
+  },
+  {
+    "studentName": "Daniel Kim",
+    "courseName": "Data Fundamentals",
+    "enrolledAt": "2025-09-20T21:15:09.645046",
+    "status": "dropped"
+  },
+  {
+    "studentName": "Ethan Wong",
+    "courseName": "Intro to Web Dev",
+    "enrolledAt": "2025-12-14T21:15:09.645049",
+    "status": "dropped"
+  },
+  {
+    "studentName": "Sofia Martinez",
+    "courseName": "Data Fundamentals",
+    "enrolledAt": "2025-10-17T21:15:09.645052",
+    "status": "completed"
+  },
+  {
+    "studentName": "Ethan Wong",
+    "courseName": "Intro to Web Dev",
+    "enrolledAt": "2025-09-15T21:15:09.645055",
+    "status": "dropped"
+  },
+  {
+    "studentName": "Ananya Rao",
+    "courseName": "Intro to Web Dev",
+    "enrolledAt": "2025-10-17T21:15:09.645057",
+    "status": "enrolled"
+  },
+  {
+    "studentName": "Priya Patel",
+    "courseName": "Data Fundamentals",
+    "enrolledAt": "2025-10-19T21:15:09.645061",
+    "status": "dropped"
+  },
+  {
+    "studentName": "Lucas Brown",
+    "courseName": "Data Fundamentals",
+    "enrolledAt": "2025-09-18T21:15:09.645063",
+    "status": "dropped"
+  },
+  {
+    "studentName": "Alex Johnson",
+    "courseName": "Intro to Web Dev",
+    "enrolledAt": "2025-12-03T21:15:09.645066",
+    "status": "dropped"
+  },
+  {
+    "studentName": "Ethan Wong",
+    "courseName": "Backend Development",
+    "enrolledAt": "2025-09-27T21:15:09.645069",
+    "status": "completed"
+  }
+]
